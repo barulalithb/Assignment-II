@@ -1,0 +1,1 @@
+python train_test_split.py --data_path=./data/train --test_data_path_to_save=./data/test --train_ratio=0.7
